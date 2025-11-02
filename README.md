@@ -17,7 +17,7 @@
 ## 🎁 Bonus: Watch in Your Preferred Language  
 
 If you’re finding it hard to follow in English — no worries! 🌍  
-You can **choose your own language** and watch the full tutorial in any of the 12 available languages.  
+You can **choose your own language**.
 
 > 🗣️ **Available Languages:**  
 > ```
