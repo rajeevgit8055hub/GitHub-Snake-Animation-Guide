@@ -11,6 +11,31 @@ Helping others add the Snake Contribution Animation 🐍 to their GitHub profile
 
 ---
 
+## 🎁 Bonus Tip: Watch in Your Preferred Language  
+
+If you’re finding it hard to follow in English — no worries! 🌍  
+You can **choose your own language** and watch the full tutorial in any of the 12 available languages.  
+
+> 🗣️ **Available Languages:**  
+> ```
+> English (US)  
+> French  
+> German  
+> Hindi  
+> Indonesian  
+> Italian  
+> Japanese  
+> Malayalam  
+> Polish  
+> Portuguese  
+> Spanish  
+> Ukrainian  
+> ```
+
+🎬 Just open the video on YouTube and turn on **Subtitles (CC)** → then click **Settings ⚙️ → Subtitles → Auto-translate** → select your preferred language!
+
+---
+
 ## ⚙️ Setup Guide
 ***📌 Source Code & Blog Reference***  
  
