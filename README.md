@@ -37,6 +37,8 @@ You can **choose your own language** and watch the full tutorial in any of the 1
 
 🎬 Just open the video on YouTube and turn on **Settings ⚙️** → **Audio Track** → then click → select your preferred language!
 
+---
+
 ## ⚙️ Setup Guide
 
 ***📌 Source Code & Blog Reference***  
